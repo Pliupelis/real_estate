@@ -1,6 +1,6 @@
 Realtor 
 build on NextJS
-integrated API:
+integrated: </br>
 RapidAPI </br>
 
 ![image](https://user-images.githubusercontent.com/33939564/147878091-39979cd5-f935-42d8-82e5-a817119afaf3.png)
